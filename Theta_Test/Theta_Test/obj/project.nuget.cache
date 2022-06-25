@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EryLMUwv2JYhooaTz77l68rWXFpUPAit+OeDUzHFXvEooIH8eHM9LGOf3CxXNDjIn7OjDBObCDH5a+bqzJGUnw==",
+  "success": true,
+  "projectFilePath": "/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/Theta_Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/serena/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/serena/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/serena/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

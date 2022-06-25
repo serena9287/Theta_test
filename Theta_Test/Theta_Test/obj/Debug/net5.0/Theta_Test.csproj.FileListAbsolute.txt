@@ -1,0 +1,16 @@
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/bin/Debug/net5.0/Theta_Test
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/bin/Debug/net5.0/Theta_Test.deps.json
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/bin/Debug/net5.0/Theta_Test.runtimeconfig.json
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/bin/Debug/net5.0/Theta_Test.runtimeconfig.dev.json
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/bin/Debug/net5.0/Theta_Test.dll
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/bin/Debug/net5.0/Theta_Test.pdb
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.csproj.AssemblyReference.cache
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.AssemblyInfoInputs.cache
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.AssemblyInfo.cs
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.csproj.CoreCompileInputs.cache
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.dll
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/refint/Theta_Test.dll
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.pdb
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/Theta_Test.genruntimeconfig.cache
+/Users/serena/Documents/serena-folder/Theta_Test/Theta_Test/obj/Debug/net5.0/ref/Theta_Test.dll
